@@ -1,31 +1,24 @@
-html{
+body{
     background-color: black;
 }
 
-h1, p{
+.poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
     color: white;
-    background-color: black;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 20px;
     text-align: center;
 }
 
-div{
-    width: 50%;
-    margin-left: 25%;
-    margin-top: 10%;
-}
-
-img{
+.meme-img{
     border: 5px solid white;
     width: 100%;
 }
 
-h1{
-    font-family: 'Caveat', cursive;
-    font-family: 'Libre Baskerville', serif;
-    font-size: 40px;
+h1{ 
     text-transform: uppercase;
 }
 
-p{
-    font-size: 22px;
-}
+
